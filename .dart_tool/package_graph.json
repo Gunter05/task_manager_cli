@@ -1,0 +1,21 @@
+{
+  "roots": [
+    "task_manager_cli"
+  ],
+  "packages": [
+    {
+      "name": "task_manager_cli",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": [
+        "lints"
+      ]
+    },
+    {
+      "name": "lints",
+      "version": "3.0.0",
+      "dependencies": []
+    }
+  ],
+  "configVersion": 1
+}
