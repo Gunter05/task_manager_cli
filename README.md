@@ -79,7 +79,7 @@ Les tâches sont sérialisées sous forme de tableau JSON avec gestion du type d
 ### 1. Cloner le dépôt et accéder au dossier
  
 ```bash
-git clone https://github.com/votre-compte/task_manager_cli.git
+git clone https://github.com/Gunter05/task_manager_cli
 cd task_manager_cli
 ```
  
